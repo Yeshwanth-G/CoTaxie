@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
     Marker marker;
     LocationManager locationm;
     SupportMapFragment supportMapFragment;
+    //
 //<------------------------------------------------------->
     @Override
     protected void onCreate(Bundle savedInstanceState) {
